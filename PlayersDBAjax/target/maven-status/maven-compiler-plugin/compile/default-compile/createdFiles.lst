@@ -1,0 +1,9 @@
+it\genchi\springboot\utils\GiocatoreNotFoundException.class
+it\genchi\springboot\repositories\PlayersRepository.class
+it\genchi\springboot\service\PlayerService.class
+it\genchi\springboot\model\Giocatore.class
+it\genchi\springboot\model\Giocatori.class
+it\genchi\springboot\service\PlayerServiceDB.class
+it\genchi\springboot\controller\ControllerPage.class
+it\genchi\springboot\controller\ControllerPlayers.class
+it\genchi\springboot\PlayersApplication.class

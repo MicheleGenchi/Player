@@ -1,0 +1,10 @@
+#titolo {
+	color: red;
+}
+
+#modulo label.error {
+    color: red;
+    font-weight: bold;
+}
+ 
+
